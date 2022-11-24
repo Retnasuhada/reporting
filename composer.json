@@ -1,0 +1,11 @@
+{
+    "name": "retnasuhada/reporting",
+    "description": "show and monitoring your log error program",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Retnasuhada\\Reporting\\": "src/"
+        }
+    },
+    "require": {}
+}
